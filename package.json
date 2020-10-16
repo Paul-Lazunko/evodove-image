@@ -1,0 +1,22 @@
+{
+  "name": "evodove-docker-image",
+  "version": "0.0.1",
+  "description": "Evodove Docker Image ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-Lazunko/evodove-image.git"
+  },
+  "author": "Paul Lazunko",
+  "license": "MIT",
+  "dependencies": {
+    "evodove": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Paul-Lazunko/evodove-image/issues"
+  },
+  "homepage": "https://github.com/Paul-Lazunko/evodove-image#readme"
+}
