@@ -13,7 +13,7 @@
   "author": "Paul Lazunko",
   "license": "MIT",
   "dependencies": {
-    "evodove": "^1.0.0"
+    "evodove": "^1.0.3"
   },
   "bugs": {
     "url": "https://github.com/Paul-Lazunko/evodove-image/issues"
